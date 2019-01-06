@@ -1,6 +1,6 @@
 import random
 
-NOISE_PROBABILITY = 0.1
+NOISE_PROBABILITY = 0.05
 
 def add_noise(input_string):
 	resulting_string = ''
